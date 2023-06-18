@@ -1,6 +1,6 @@
 # ECENGR180DB
 
-Project with Networking and MediaPipe.
+Project with Networking and MediaPipe (will need to download needed dependencies (refer to earlier labs))
 
 To run MediaPipe:
 1. Open Gesture Folder
