@@ -15,4 +15,4 @@ Might Change from user to user:
 
 ## Notes
 
-Original repo including most team member's commits can be found in [[here](https://github.com/zeidsolh/ECENGR180DB)]
+Original repo that this team used including most team member's commits can be found in [[here](https://github.com/zeidsolh/ECENGR180DB)] with the very original repo being found [[here](https://github.com/warrenwallis/ECE180D-Project)]
